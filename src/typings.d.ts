@@ -1,3 +1,6 @@
+import 'gapi';
+import 'gapi.auth2';
+
 /* SystemJS module definition */
 interface NodeModule {
   id: string;
