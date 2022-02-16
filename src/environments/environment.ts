@@ -1,4 +1,4 @@
-export default {
+export const environment = {
     production: process.env.mode === 'production',
     firebase: {
         apiKey: process.env.firebaseApiKey,
