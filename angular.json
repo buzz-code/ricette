@@ -32,7 +32,8 @@
             ],
             "scripts": [],
             "customWebpackConfig": {
-              "path": "./extra-webpack.config.ts"
+              "path": "./extra-webpack.config.ts",
+              "replaceDuplicatePlugins": true
             }      
           },
           "configurations": {
