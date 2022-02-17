@@ -30,7 +30,10 @@
               "src/component.css",
               "src/default.css"
             ],
-            "scripts": []
+            "scripts": [],
+            "customWebpackConfig": {
+              "path": "./extra-webpack.config.ts"
+            }      
           },
           "configurations": {
             "production": {
