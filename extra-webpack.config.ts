@@ -11,7 +11,7 @@ export default {
             'firebaseStorageBucket',
             'firebaseMessagingSenderId',
             'firebaseAppId',
-            'firebaseMeasurementI',
+            'firebaseMeasurementId',
         ])
     ]
 } as webpack.Configuration;
